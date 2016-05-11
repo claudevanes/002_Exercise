@@ -19,7 +19,7 @@ public class Main {
 
 	}
 
-	static Books BigBook = new Books(455);
+	static Books BigBook = new Books(485);
 	
 	public final static Logger LOGGER = Logger.getLogger(Main.class.getName());
 
