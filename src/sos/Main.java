@@ -1,5 +1,5 @@
 /** 
- * Thought of this project: nnn
+ * Thought of this project: 
  */
 package sos;
 
