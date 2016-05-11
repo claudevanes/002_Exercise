@@ -1,9 +1,11 @@
 package ses;
 
-import main.*;
+import sos.*;
 
 public class RenameMe {
 
+	 
+	
 	public RenameMe() {
 
 	}
