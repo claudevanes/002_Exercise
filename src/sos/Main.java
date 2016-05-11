@@ -1,5 +1,5 @@
 /** 
- * Thought of this project: 
+ * Thought of this project:  
  */
 package sos;
 
@@ -18,6 +18,7 @@ public class Main {
 		LOGGER.info("");
 
 		System.out.println("In this programm is nothing, like in others.");
+		System.out.println("_________________________");
 
 	}
 
