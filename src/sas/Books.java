@@ -8,7 +8,7 @@ public class Books {
 	    this.numberOfPage = numberOfPage;
 	}
 
-	// This is number - of page.
+	// This is a number - of page.
 	private Integer numberOfPage;
 
 	public Integer getNumberOfPage() {
